@@ -1,0 +1,39 @@
+0A040000	Item Graphics
+1F900000	Match_Mega Graphics
+21040000	Item Select GMBs
+26740000	Puzzle GMBs
+2D700000	Special Enemy Graphics
+4E540000	Streetpass GMB and Present Table
+58F80000	Debug Menu
+66140000	Savefile (My Data) GMB
+69680000	Layout Archives
+72940000	Support Menu GMB
+8A640000	Serial Code GMB
+8BA80000	Stage Result GMBs
+8F280000	AppCore and Misc GMBs
+91280000	128x128 Pokemon Graphics
+9D3C0000	Options GMB
+9EB40000	Type PTCLs
+A4700000	Stage Select GMB
+A6540000	Pokemon Catching UI
+A8A40000	Floor GMB
+B6680000	Configuration Tables
+C6CC0000	64x64 Pokemon Graphics
+D6B80000	Fonts and Shaders
+D9AC0000	Battle Graphics
+DC440000	Check-In GMB
+E5500000	E-Code GMB
+E5BC0000	Map Graphics
+ED8C0000	Shop GMBs
+EFDC0000	Title GMB
+F054000A	Message_JP
+F0540012	Message_US
+F0540022	Message_UK
+F0540042	Message_FR
+F0540082	Message_GE
+F0540102	Message_IT
+F0540202	Message_SP
+F0550002	Message_NAFR
+F0560002	Message_NASP
+F3FC0000	PokemonSet GMB
+FA940000	Ranking GMBs
